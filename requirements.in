@@ -1,6 +1,7 @@
-numpy
+beautifulsoup4
 matplotlib
-
+numpy
+requests
 
 # Dev dependencies
 notebook
