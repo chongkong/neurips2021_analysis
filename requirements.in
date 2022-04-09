@@ -1,0 +1,7 @@
+numpy
+matplotlib
+
+
+# Dev dependencies
+notebook
+pip-tools
