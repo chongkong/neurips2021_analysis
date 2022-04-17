@@ -1,0 +1,12 @@
+Bayesian decision-making under misspecified priors with applications to meta-learning
+Efficient First-Order Contextual Bandits: Prediction, Allocation, and Triangular Discrimination
+Dealing With Misspecification In Fixed-Confidence Linear Top-m Identification
+Monte Carlo Tree Search With Iteratively Refining State Abstractions
+Online Sign Identification: Minimization of the Number of Errors in Thresholding Bandits
+Large-Scale Learning with Fourier Features and Tensor Decompositions
+Morié Attack (MA): A New Potential Risk of Screen Photos
+Adversarial Attacks on Black Box Video Classifiers: Leveraging the Power of Geometric Transformations
+Reinforcement Learning in Reward-Mixing MDPs
+Fair Exploration via Axiomatic Bargaining
+Fast Algorithms for $L_\infty$-constrained S-rectangular Robust MDPs
+PARP: Prune, Adjust and Re-Prune for Self-Supervised Speech Recognition
